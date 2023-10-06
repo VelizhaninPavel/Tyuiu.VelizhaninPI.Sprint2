@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Lib;
+using Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Lib;
 
-namespace Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test
+namespace Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -17,7 +17,6 @@ namespace Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test
             var res = ds.GetCompareOperations(x, y);
             bool[] wait = new bool[6] { false, false, false, true, true, true };
             CollectionAssert.AreEqual(wait, res);
-
         }
     }
 }

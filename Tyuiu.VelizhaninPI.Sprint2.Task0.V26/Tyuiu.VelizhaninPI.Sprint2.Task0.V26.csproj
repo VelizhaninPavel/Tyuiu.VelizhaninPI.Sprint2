@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E7A55BFB-F109-4927-82E9-A8093DD614C1}</ProjectGuid>
+    <ProjectGuid>{920C9CEC-4B78-4F8E-86A9-13D05AFAE0B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.VelizhaninPI.Sprint1.Task0.V26</RootNamespace>
-    <AssemblyName>Tyuiu.VelizhaninPI.Sprint1.Task0.V26</AssemblyName>
+    <RootNamespace>Tyuiu.VelizhaninPI.Sprint2.Task0.V26</RootNamespace>
+    <AssemblyName>Tyuiu.VelizhaninPI.Sprint2.Task0.V26</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,13 +50,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Lib\Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Lib.csproj">
-      <Project>{7ff18147-1dda-4759-9080-d64ad26a7e76}</Project>
-      <Name>Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Lib\Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Lib.csproj">
+      <Project>{07033d13-7abd-4104-a160-1be85ae69be0}</Project>
+      <Name>Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Lib</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test\Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test.csproj">
-      <Project>{8417f9b7-fab9-455d-9555-f279de654e09}</Project>
-      <Name>Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test</Name>
+    <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Test\Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Test.csproj">
+      <Project>{0422c32f-7573-46ec-9e2a-70aa0d1f92fc}</Project>
+      <Name>Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Test</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

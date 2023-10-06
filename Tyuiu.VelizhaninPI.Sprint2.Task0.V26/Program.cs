@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Lib;
-using Tyuiu.VelizhaninPI.Sprint1.Task0.V26.Test;
+using Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Lib;
+using Tyuiu.VelizhaninPI.Sprint2.Task0.V26.Test;
 
-namespace Tyuiu.VelizhaninPI.Sprint1.Task0.V26
+namespace Tyuiu.VelizhaninPI.Sprint2.Task0.V26
 {
     class Program
     {
@@ -52,7 +52,6 @@ namespace Tyuiu.VelizhaninPI.Sprint1.Task0.V26
                 Console.WriteLine(res[i]);
             }
             Console.ReadLine();
-            
         }
     }
 }

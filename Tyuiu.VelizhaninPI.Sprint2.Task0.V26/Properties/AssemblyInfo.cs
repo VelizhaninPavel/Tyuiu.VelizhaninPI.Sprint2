@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tyuiu.VelizhaninPI.Sprint1.Task0.V26")]
+[assembly: AssemblyTitle("Tyuiu.VelizhaninPI.Sprint2.Task0.V26")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("Tyuiu.VelizhaninPI.Sprint1.Task0.V26")]
+[assembly: AssemblyProduct("Tyuiu.VelizhaninPI.Sprint2.Task0.V26")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e7a55bfb-f109-4927-82e9-a8093dd614c1")]
+[assembly: Guid("920c9cec-4b78-4f8e-86a9-13d05afae0b5")]
 
 // Version information for an assembly consists of the following four values:
 //
